@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Technology\\backup\\CM\\_Projects\\Bcon360_Android_SDK\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
